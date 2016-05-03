@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Get Benched</string>
+    <string name="testString">The quick brown fox</string>
 </resources>
