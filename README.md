@@ -1,2 +1,3 @@
 # GetBenched
-CPU benchmark
+Android CPU benchmark using SHA-1
+
